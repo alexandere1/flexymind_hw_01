@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello,FlexyMind
+=======
+Hello,world
+>>>>>>> f95593ae3c20bcd146a5af56e87654718c358d67
